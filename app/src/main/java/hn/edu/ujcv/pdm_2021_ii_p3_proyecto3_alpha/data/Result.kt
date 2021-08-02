@@ -1,4 +1,4 @@
-package hn.edu.ujcv.pdm_2021_ii_p3_proyecto3.data
+package hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha.data
 
 /**
  * A generic class that holds a value with its loading status.

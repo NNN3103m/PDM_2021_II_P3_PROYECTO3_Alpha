@@ -1,4 +1,4 @@
-package hn.edu.ujcv.pdm_2021_ii_p3_proyecto3.ui.login
+package hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha.ui.login
 
 import android.app.Activity
 import androidx.lifecycle.Observer
@@ -12,9 +12,9 @@ import android.view.View
 import android.view.inputmethod.EditorInfo
 import android.widget.EditText
 import android.widget.Toast
-import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3.databinding.ActivityLoginBinding
+import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha.databinding.ActivityLoginBinding
 
-import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3.R
+import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha.R
 
 class LoginActivity : AppCompatActivity() {
 

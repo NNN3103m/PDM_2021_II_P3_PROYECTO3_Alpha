@@ -1,9 +1,9 @@
-package hn.edu.ujcv.pdm_2021_ii_p3_proyecto3.ui.login
+package hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha.ui.login
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3.data.LoginDataSource
-import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3.data.LoginRepository
+import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha.data.LoginDataSource
+import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha.data.LoginRepository
 
 /**
  * ViewModel provider factory to instantiate LoginViewModel.

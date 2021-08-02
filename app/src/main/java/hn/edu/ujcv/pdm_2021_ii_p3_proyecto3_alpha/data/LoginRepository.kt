@@ -1,6 +1,6 @@
-package hn.edu.ujcv.pdm_2021_ii_p3_proyecto3.data
+package hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha.data
 
-import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3.data.model.LoggedInUser
+import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha.data.model.LoggedInUser
 
 /**
  * Class that requests authentication and user information from the remote data source and

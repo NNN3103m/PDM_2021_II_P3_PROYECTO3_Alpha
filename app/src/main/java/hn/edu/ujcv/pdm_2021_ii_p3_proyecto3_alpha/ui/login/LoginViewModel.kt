@@ -1,13 +1,13 @@
-package hn.edu.ujcv.pdm_2021_ii_p3_proyecto3.ui.login
+package hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha.ui.login
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import android.util.Patterns
-import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3.data.LoginRepository
-import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3.data.Result
+import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha.data.LoginRepository
+import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha.data.Result
 
-import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3.R
+import hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha.R
 
 class LoginViewModel(private val loginRepository: LoginRepository) : ViewModel() {
 

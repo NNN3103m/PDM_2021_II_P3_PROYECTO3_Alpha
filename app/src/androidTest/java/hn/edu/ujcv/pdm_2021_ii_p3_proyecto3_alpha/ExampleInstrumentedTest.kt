@@ -1,4 +1,4 @@
-package hn.edu.ujcv.pdm_2021_ii_p3_proyecto3
+package hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("hn.edu.ujcv.pdm_2021_ii_p3_proyecto3", appContext.packageName)
+        assertEquals("hn.edu.ujcv.pdm_2021_ii_p3_proyecto3_alpha", appContext.packageName)
     }
 }
